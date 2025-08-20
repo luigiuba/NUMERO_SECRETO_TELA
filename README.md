@@ -2,7 +2,8 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>README - Número Secreto com Tela</title>
+  <title>README - Número Secreto com interação á tela!</title>
+  <subtitle>README - Estudo de Logica de programação</subtitle>
   <style>
     body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f9f9f9; }
     h1, h2 { color: #2c3e50; }
