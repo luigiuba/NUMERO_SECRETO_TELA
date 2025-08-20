@@ -30,8 +30,7 @@
 
   <h2>🚀 Funcionalidades</h2>
   <ul>
-    <li>Interface amigável e responsiva</li>
-    <li>Reconhecimento de voz para entrada do jogador</li>
+    <li>Interface com minha personalidade </li>
     <li>Feedback visual e sonoro</li>
     <li>Mensagens dinâmicas de acerto ou erro</li>
   </ul>
@@ -50,12 +49,9 @@
     <li>Abra o arquivo <code>index.html</code> em seu navegador</li>
   </ol>
 
-  <h2>📄 Licença</h2>
-  <p>Este projeto está disponível sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar!</p>
-
   <h2>🙌 Autor</h2>
   <p>Desenvolvido por <strong>Luigi Baezo</strong>. Conecte-se comigo no Linkedin: 
-    <a href="www.linkedin.com/in/luigi-baezo-147260273">@luigiuba</a>
+    <a href="www.linkedin.com/in/luigi-baezo-147260273">Luigi Baezo</a>
   </p>
 </body>
 </html>
