@@ -49,9 +49,7 @@
     <li>Abra o arquivo <code>index.html</code> em seu navegador</li>
   </ol>
 
-  <h2>🙌 Autor</h2>
-  <p>Desenvolvido por <strong>Luigi Baezo</strong>. Conecte-se comigo no Linkedin: 
-    <a href="www.linkedin.com/in/luigi-baezo-147260273">Luigi Baezo</a>
-  </p>
-</body>
-</html>
+ <h2>🙌 Autor</h2>
+<p>Desenvolvido por <strong>Luigi Baezo</strong>. Conecte-se comigo no LinkedIn: 
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">Luigi Baezo</a>
+</p>
