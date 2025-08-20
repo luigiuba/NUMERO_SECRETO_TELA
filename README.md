@@ -48,8 +48,7 @@
     <li>Clone o repositório: <code>git clone https://github.com/luigiuba/NUMERO_SECRETO_TELA</code></li>
     <li>Abra o arquivo <code>index.html</code> em seu navegador</li>
   </ol>
-
- <h2>🙌 Autor</h2>
+<h2>🙌 Autor</h2>
 <p>Desenvolvido por <strong>Luigi Baezo</strong>. Conecte-se comigo no LinkedIn: 
-  <a href="www.linkedin.com/in/luigi-baezo" target="_blank">Luigi Baezo</a>
+  <a href="https://www.linkedin.com/in/luigi-baezo-147260273" target="_blank">Luigi Baezo</a>
 </p>
