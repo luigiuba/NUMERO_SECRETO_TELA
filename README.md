@@ -55,9 +55,7 @@
 
   <h2>🙌 Autor</h2>
   <p>Desenvolvido por <strong>Luigi Baezo</strong>. Conecte-se comigo no Linkedin: 
-    <a href="www.linkedin.com/in/luigi-baezo-147260273
-
-">@luigiuba</a>
+    <a href="www.linkedin.com/in/luigi-baezo-147260273">@luigiuba</a>
   </p>
 </body>
 </html>
